@@ -28,4 +28,3 @@ resource "google_storage_bucket" "kosiaszka-dareit" {
   location      = "us-central1"
   storage_class = "STANDARD"
 }
-
